@@ -38,5 +38,5 @@ cunoscute despre cei care utilizează aplicația (users) și despre creatorii de
 		furnizează o modalitate de acces la elementele unui obiect agregat în mod
 		secvențial, fără să îi expună implementarea;
 	
-	Singleton este implementat ca o bază de date unde sunt stocate 3 ArrayLists. În interiorul
+Singleton este implementat ca o bază de date unde sunt stocate 3 ArrayLists. În interiorul
 acestei clase este implementat si Iterator, pe baza căruia este facilitată parcurgerea listelor.
